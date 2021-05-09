@@ -19,7 +19,7 @@ laravel new [your project]
 After finish install laravel you have to install laravel ui too
 
 ```
-composer required laravel/ui
+composer require laravel/ui
 ```
 
 And Make Auth
